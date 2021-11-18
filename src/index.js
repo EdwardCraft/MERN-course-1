@@ -54,6 +54,12 @@ app.listen(app.get('port'), () => {
 
 //Notes:   -D indica que es una dependencia de desarrollo
 //nodmon: will update the serve everytime there is a change
+//mongod to start server
+
+//To compile everytime there is a change 
+//webpack --mode development --watch
+//Estudiar JsonWebToken
+//Login
 
 //Modules
 //npm install express
